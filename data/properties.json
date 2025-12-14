@@ -1,0 +1,49 @@
+[
+  {
+    "slug": "the-andrea",
+    "name": "The Andrea",
+    "address": "218 Myrtle Avenue, Brooklyn, NY 11201",
+    "state": "new-york",
+    "units": 95,
+    "year": 2010,
+    "llc": "218 Myrtle LLC",
+    "image": "/images/the-andrea.jpg",
+    "type": "Residential"
+  },
+  {
+    "slug": "the-margo",
+    "name": "The Margo",
+    "address": "180 Myrtle Avenue, Brooklyn, NY 11201",
+    "state": "new-york",
+    "units": 228,
+    "year": 2015,
+    "llc": "180 Myrtle Ave LLC",
+    "image": "/images/the-margo.jpg",
+    "type": "Residential"
+  },
+  {
+    "slug": "the-giovanni",
+    "name": "The Giovanni",
+    "address": "81 Fleet Place, Brooklyn, NY 11201",
+    "state": "new-york",
+    "units": 205,
+    "year": 2015,
+    "llc": "81 Fleet Place LLC",
+    "image": "/images/the-giovanni.jpg",
+    "type": "Residential"
+  },
+  {
+    "slug": "the-eagle",
+    "name": "The Eagle (86 Fleet Place)",
+    "address": "86 Fleet Place, Brooklyn, NY 11201",
+    "state": "new-york",
+    "units": 440,
+    "year": 2018,
+    "llc": "86 Fleet Place LLC",
+    "image": "/images/the-eagle.jpg",
+    "type": "Residential Tower"
+  },
+  {
+    "slug": "ocean-dreams",
+    "name": "Ocean Dreams",
+    "address": "3514 Surf Avenue, Brook
